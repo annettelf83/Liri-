@@ -16,3 +16,6 @@ exports.omdb = {
 exports.mapquest = {
     id: process.env.MAPQUEST_ID
 }
+
+
+
